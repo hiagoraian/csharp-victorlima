@@ -1,0 +1,15 @@
+C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\bin\Debug\net8.0\csharp-victorlima.exe
+C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\bin\Debug\net8.0\csharp-victorlima.deps.json
+C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\bin\Debug\net8.0\csharp-victorlima.runtimeconfig.json
+C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\bin\Debug\net8.0\csharp-victorlima.dll
+C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\bin\Debug\net8.0\csharp-victorlima.pdb
+C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\obj\Debug\net8.0\csharp-victorlima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\obj\Debug\net8.0\csharp-victorlima.AssemblyInfoInputs.cache
+C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\obj\Debug\net8.0\csharp-victorlima.AssemblyInfo.cs
+C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\obj\Debug\net8.0\csharp-victorlima.csproj.CoreCompileInputs.cache
+C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\obj\Debug\net8.0\csharp-victorlima.sourcelink.json
+C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\obj\Debug\net8.0\csharp-victorlima.dll
+C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\obj\Debug\net8.0\refint\csharp-victorlima.dll
+C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\obj\Debug\net8.0\csharp-victorlima.pdb
+C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\obj\Debug\net8.0\csharp-victorlima.genruntimeconfig.cache
+C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\obj\Debug\net8.0\ref\csharp-victorlima.dll

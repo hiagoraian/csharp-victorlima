@@ -1,4 +1,5 @@
-﻿using variaveis;
+﻿using constantes;
+using variaveis;
 
 namespace sumario;
 
@@ -6,6 +7,6 @@ public class Program
 {
     public static void Main()
     {
-        aula01.variaveis();
+        aula02.constantes();
     }
 }

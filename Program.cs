@@ -1,4 +1,5 @@
-﻿using constantes;
+﻿using Calculadora;
+using constantes;
 using estruturaCondicional;
 using inputOutput;
 using operadoresAritmeticos;
@@ -13,6 +14,6 @@ public class Program
 {
     public static void Main()
     {
-        aula08.operadoresLogicos();
+        testeCalculadora.result();
     }
 }

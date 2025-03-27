@@ -3,6 +3,7 @@ using estruturaCondicional;
 using inputOutput;
 using operadoresAritmeticos;
 using operadoresAtribuicao;
+using operadoresLogicos;
 using operadoresRelacionais;
 using variaveis;
 
@@ -12,6 +13,6 @@ public class Program
 {
     public static void Main()
     {
-        aula07.operadoresRelacionais();
+        aula08.operadoresLogicos();
     }
 }

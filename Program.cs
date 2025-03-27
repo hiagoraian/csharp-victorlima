@@ -1,9 +1,11 @@
-﻿namespace Aula01;
+﻿using variaveis;
+
+namespace sumario;
 
 public class Program 
 {
     public static void Main()
     {
-        Console.WriteLine("Iniciando no .NET");
+        aula01.variaveis();
     }
 }

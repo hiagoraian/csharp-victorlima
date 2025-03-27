@@ -2,6 +2,7 @@
 using estruturaCondicional;
 using inputOutput;
 using operadoresAritmeticos;
+using operadoresAtribuicao;
 using variaveis;
 
 namespace sumario;
@@ -10,6 +11,6 @@ public class Program
 {
     public static void Main()
     {
-        aula05.estruturaCondicional();
+        aula06.operadoresAtribuicao();
     }
 }

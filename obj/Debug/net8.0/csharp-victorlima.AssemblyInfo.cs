@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharp-victorlima")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aeb17b3932793615788570344511cc4ecad9382d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f584b8ccf38067125368010853327674faeb85b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharp-victorlima")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharp-victorlima")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,6 +2,7 @@
 using constantes;
 using estruturaCondicional;
 using inputOutput;
+using metodoSwitch;
 using operadoresAritmeticos;
 using operadoresAtribuicao;
 using operadoresLogicos;
@@ -14,6 +15,6 @@ public class Program
 {
     public static void Main()
     {
-        testeCalculadora.result();
+        aula09.metodoSwitch();
     }
 }

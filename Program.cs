@@ -4,6 +4,7 @@ using estruturaCondicional;
 using inputOutput;
 using metodoDoWhile;
 using metodoFor;
+using metodoForeach;
 using metodoSwitch;
 using metodoWhile;
 using operadoresAritmeticos;
@@ -18,6 +19,6 @@ public class Program
 {
     public static void Main()
     {
-        aula12.metodoFor();
+        aula13.metodoForeach();
     }
 }

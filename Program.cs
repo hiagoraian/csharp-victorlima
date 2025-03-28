@@ -6,6 +6,7 @@ using metodoArray;
 using metodoDoWhile;
 using metodoFor;
 using metodoForeach;
+using metodoList;
 using metodoSwitch;
 using metodoWhile;
 using operadoresAritmeticos;
@@ -20,6 +21,6 @@ public class Program
 {
     public static void Main()
     {
-        aula14.metodoArray();
+        aula15.metodoList();
     }
 }

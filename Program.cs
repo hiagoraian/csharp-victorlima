@@ -2,6 +2,7 @@
 using constantes;
 using estruturaCondicional;
 using inputOutput;
+using metodoArray;
 using metodoDoWhile;
 using metodoFor;
 using metodoForeach;
@@ -19,6 +20,6 @@ public class Program
 {
     public static void Main()
     {
-        aula13.metodoForeach();
+        aula14.metodoArray();
     }
 }

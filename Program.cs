@@ -3,6 +3,7 @@ using constantes;
 using estruturaCondicional;
 using inputOutput;
 using metodoSwitch;
+using metodoWhile;
 using operadoresAritmeticos;
 using operadoresAtribuicao;
 using operadoresLogicos;
@@ -15,6 +16,6 @@ public class Program
 {
     public static void Main()
     {
-        aula09.metodoSwitch();
+        aula10.metodoWhile();
     }
 }

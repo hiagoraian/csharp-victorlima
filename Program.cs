@@ -2,6 +2,7 @@
 using constantes;
 using controleEstoque;
 using estruturaCondicional;
+using files;
 using inputOutput;
 using metodoArray;
 using metodoDoWhile;
@@ -22,6 +23,6 @@ public class Program
 {
     public static void Main()
     {
-        testeControleEstoque.controleEstoque();
+        aula16.files();
     }
 }

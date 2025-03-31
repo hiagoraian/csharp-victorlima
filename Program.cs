@@ -1,5 +1,6 @@
 ﻿using Calculadora;
 using constantes;
+using controleEstoque;
 using estruturaCondicional;
 using inputOutput;
 using metodoArray;
@@ -21,6 +22,6 @@ public class Program
 {
     public static void Main()
     {
-        aula15.metodoList();
+        testeControleEstoque.controleEstoque();
     }
 }

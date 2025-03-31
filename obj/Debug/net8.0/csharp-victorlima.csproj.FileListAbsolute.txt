@@ -13,3 +13,6 @@ C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\obj\Debug\net8.0\refin
 C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\obj\Debug\net8.0\csharp-victorlima.pdb
 C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\obj\Debug\net8.0\csharp-victorlima.genruntimeconfig.cache
 C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\obj\Debug\net8.0\ref\csharp-victorlima.dll
+C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\bin\Debug\net8.0\NHunspell.dll
+C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\obj\Debug\net8.0\csharp-victorlima.csproj.AssemblyReference.cache
+C:\Users\hiago.carvalho\Documents\hiago\csharp-victorlima\obj\Debug\net8.0\csharp-v.7A4DC1FC.Up2Date

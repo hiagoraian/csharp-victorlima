@@ -4,6 +4,7 @@ using controleEstoque;
 using estruturaCondicional;
 using files;
 using inputOutput;
+using listaDeCompras;
 using metodoArray;
 using metodoDoWhile;
 using metodoFor;
@@ -23,6 +24,6 @@ public class Program
 {
     public static void Main()
     {
-        aula16.files();
+        testeListaCompras.listaDeCompras();
     }
 }

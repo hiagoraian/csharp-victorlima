@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "yB9lHxHpJXk=",
+  "dgSpecHash": "NX2JlOehros=",
   "success": true,
   "projectFilePath": "C:\\Users\\hiago.carvalho\\Documents\\hiago\\csharp-victorlima\\csharp-victorlima.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\hiago.carvalho\\.nuget\\packages\\nhunspell\\1.2.5554.16953\\nhunspell.1.2.5554.16953.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'NHunspell 1.2.5554.16953' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net8.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "NHunspell",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
